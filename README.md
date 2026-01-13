@@ -1,16 +1,104 @@
-## Hi there 👋
+# Sergio Eslava
 
-<!--
-**SergioEslava/SergioEslava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Robotics software engineer specialized in **robotics simulation, graphics engines and physics-based systems**, with a strong focus on the technical foundations that make complex robotic systems reliable and testable.
 
-Here are some ideas to get you started:
+📍 Spain  
+🌍 Open to remote work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work at the intersection of **robotics, simulation, 3D graphics and distributed systems**, building simulators, communication layers and tooling that bridge real robots, physics engines and control software.
+
+---
+
+## What I specialize in
+
+- Robotics simulation and digital twins
+- Physics engines and simulation fidelity
+- 3D graphics and rendering from a **programming and systems** perspective
+- Integration of simulators with distributed control systems
+- Communication layers between simulators, middleware and real robots
+- ROS 2 system description and integration
+- Unreal Engine–based simulation and VR interaction
+
+I’m particularly interested in building **infrastructure-level software**: the systems that robotics engineers rely on to test, validate and operate robots in realistic environments.
+
+---
+
+## Greatest Hits
+
+A selection of real-world robotics projects I have significantly contributed to.
+
+### 🤖 P3Bot
+
+Omnidirectional platform with dual Kinova Gen3 7DoF manipulators.
+
+**My contributions:**
+- Industrial design and generation of 3D meshes ready for 3D printing
+- Complete robot implementation in **Webots** ([link]())
+  - Accepted into the official Webots robot repository
+- Implementation of **Kinova Gen3 7DoF** manipulators in **Webots** ([link]())
+  - Accepted into the official Webots robot repository
+- Design and implementation of the communication system between:
+  - the simulator
+  - a distributed control system ([Robocomp]()) ([link]())
+- Creation of the robot description in **URDF for ROS 2** ([link]())
+- Participation in the implementation of a **VR-based teleoperation system** for both manipulators using **Unreal Engine 5** ([link]())
+- Co-authoring of a research paper describing the teleoperation system ([link]())
+
+---
+
+### 🤖 EBOv2
+
+Educational mobile robot platform.
+
+**My contributions:**
+- Industrial design and generation of 3D meshes for 3D printing
+- Complete robot implementation in **Webots** ([link]())
+- Implementation of the communication layer between: 
+  - the simulator
+  - the distributed control system ([link]())
+- Integration of the robot into **LearnBlock** ([link]())
+- Development of new functionalities for LearnBlock ([link]())
+
+---
+
+### 🤖 Shadow
+
+Mobile robot platform.
+
+**My contributions:**
+- Industrial design and generation of 3D meshes for 3D printing
+- Implementation of the communication layer between: 
+  - the distributed control system
+  - the simulator ([link]())
+- Development of the communication bridge between **Gazebo** and the distributed system ([link]())
+
+---
+
+### 🚗 Autonomous Car Project ([link]())
+
+Autonomous driving system developed in an industrial context.
+
+**My contributions:**
+- Contributed to the development of the distributed control system
+- Worked on the simulator based on Unreal Engine
+- Collaborated on simulation-driven validation workflows for autonomous driving
+
+---
+
+
+## Technologies & Tools
+
+**Core stack:**
+- C++, Python
+- ROS 2
+- Webots, Gazebo
+- Unreal Engine 5, Unity 6
+- Robotics simulation and physics engines
+- Distributed systems and communication middleware
+
+**Additional areas:**
+- 3D modeling pipelines for simulation and manufacturing
+- VR-based interaction and teleoperation
+- Performance-oriented system design
+
+---
