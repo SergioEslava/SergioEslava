@@ -74,7 +74,7 @@ Mobile robot platform.
 
 ---
 
-### 🚗 Autonomous Car Project ([link]())
+### 🚗 Autonomous Driving Car Project ([link]())
 
 Autonomous driving system developed in an industrial context.
 
