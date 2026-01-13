@@ -33,16 +33,16 @@ Omnidirectional platform with dual Kinova Gen3 7DoF manipulators.
 
 **My contributions:**
 - Industrial design and generation of 3D meshes ready for 3D printing
-- Complete robot implementation in **Webots** ([link]())
+- Complete robot implementation in **Webots** ([link]([https://github.com/cyberbotics/webots/pull/6919](https://github.com/SergioEslava/webots/tree/p3bot)))
   - Accepted into the official Webots robot repository
-- Implementation of **Kinova Gen3 7DoF** manipulators in **Webots** ([link]())
+- Implementation of **Kinova Gen3 7DoF** manipulators in **Webots** ([link](https://github.com/SergioEslava/webots/tree/p3bot))
   - Accepted into the official Webots robot repository
 - Design and implementation of the communication system between:
   - the simulator
-  - a distributed control system ([Robocomp]()) ([link]())
-- Creation of the robot description in **URDF for ROS 2** ([link]())
-- Participation in the implementation of a **VR-based teleoperation system** for both manipulators using **Unreal Engine 5** ([link]())
-- Co-authoring of a research paper describing the teleoperation system ([link]())
+  - a distributed control system ([Robocomp](https://github.com/robocomp/robocomp)) ([link](https://github.com/SergioEslava-UEx/webots-p3bot))
+- Creation of the robot description in **URDF for ROS 2** ([link](https://github.com/SergioEslava/p3bot_description))
+- Participation in the implementation of a **VR-based teleoperation system** for both manipulators using **Unreal Engine 5** ([link](https://github.com/alfiTH/VR_teleoperation))
+- Co-authoring of a research paper describing the teleoperation system ([link](https://www.preprints.org/manuscript/202601.0368))
 
 ---
 
