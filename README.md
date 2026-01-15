@@ -46,6 +46,9 @@ Omnidirectional platform with dual Kinova Gen3 7DoF manipulators.
 
 ### 🤖 EBOv2
 
+<img src="./images/ebov2_alpha_small.png" width="150"/>
+
+
 Educational mobile robot platform.
 
 **My contributions:**
@@ -59,6 +62,8 @@ Educational mobile robot platform.
 
 ### 🤖 Shadow
 
+<img src="./images/shadow_alpha_300.png" width="150"/>
+
 Mobile robot platform.
 
 **My contributions:**
@@ -68,7 +73,9 @@ Mobile robot platform.
 
 ---
 
-### 🚗 Autonomous Driving Car Project ([link](https://www.youtube.com/watch?v=19kWHUeHW8M&t=1s))
+### 🚗 Gamma Autonomous Driving Car | 5G Pilot ([link](https://www.youtube.com/watch?v=19kWHUeHW8M&t=1s))
+
+![Autonomous Car](./images/gamma_car.jpg)
 
 Autonomous driving system developed in an industrial context.
 
