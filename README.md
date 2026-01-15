@@ -46,7 +46,7 @@ Omnidirectional platform with dual Kinova Gen3 7DoF manipulators.
 
 ### 🤖 EBOv2
 
-<img src="./images/ebov2_alpha_small.png" width="150"/>
+<img src="./images/ebov2_alpha_small.png" width="300"/>
 
 
 Educational mobile robot platform.
@@ -62,7 +62,7 @@ Educational mobile robot platform.
 
 ### 🤖 Shadow
 
-<img src="./images/shadow_alpha_300.png" width="150"/>
+<img src="./images/shadow_alpha_300.png" width="300"/>
 
 Mobile robot platform.
 
