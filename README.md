@@ -39,7 +39,7 @@ Omnidirectional platform with dual Kinova Gen3 7DoF manipulators.
   - Accepted into the official Webots robot repository
 - Implementation of **Kinova Gen3 7DoF** manipulators in **Webots** ([link](https://github.com/SergioEslava/webots/tree/p3bot))
   - Accepted into the official Webots robot repository
-- Design and implementation of the communication system between the simulator and the distributed control system ([Robocomp](https://github.com/robocomp/robocomp)) ([link](https://github.com/SergioEslava-UEx/webots-p3bot))
+- Design and implementation of the communication system between the **Webots** simulator and the distributed control system ([Robocomp](https://github.com/robocomp/robocomp)) ([link](https://github.com/SergioEslava-UEx/webots-p3bot))
 - Creation of the robot description in **URDF for ROS 2** ([link](https://github.com/SergioEslava/p3bot_description))
 - Participation in the implementation of a **VR-based teleoperation system** for both manipulators using **Unreal Engine 5** ([link](https://github.com/alfiTH/VR_teleoperation))
 - Co-authoring of a research paper describing the teleoperation system ([link](https://www.preprints.org/manuscript/202601.0368))
@@ -56,7 +56,7 @@ Educational mobile robot platform.
 **My contributions:**
 - Industrial design and generation of 3D meshes for 3D printing
 - Complete robot implementation in **Webots** ([link](https://github.com/robocomp/webots-ebo))
-- Implementation of the communication layer between the simulator and the distributed control system ([link](https://github.com/robocomp/webots-ebo/tree/main/components/ebo-bridge))
+- Implementation of the communication layer between the **Webots** simulator and the distributed control system ([link](https://github.com/robocomp/webots-ebo/tree/main/components/ebo-bridge))
 - Integration of the robot into **LearnBlock** ([link](https://github.com/robocomp/LearnBlock/blob/EBOv2/learnbot_dsl/Clients/EBOv2.py))
 - Development of new functionalities for LearnBlock ([link](https://github.com/robocomp/LearnBlock/tree/EBOv2))
 
@@ -70,7 +70,7 @@ Mobile robot platform.
 
 **My contributions:**
 - Industrial design and generation of 3D meshes for 3D printing
-- Implementation of the communication layer between the distributed control system and the simulator ([link](https://github.com/robocomp/webots-bridge))
+- Implementation of the communication layer between the distributed control system and the **Webots** simulator ([link](https://github.com/robocomp/webots-bridge))
 - Development of the communication bridge between **Gazebo** and the distributed system ([link](https://github.com/robocomp/gazebo-bridge))
 
 ---
@@ -96,8 +96,8 @@ Autonomous driving system developed in an industrial context.
 - ROS 2
 - Webots, Gazebo
 - Unreal Engine 5, Unity 6
-- Robotics simulation and physics engines
-- Distributed systems and communication middleware
+- Blender, Solidworks
+- Distributed systems and communication middleware (ROS 2 & Robocomp)
 
 **Additional areas:**
 - 3D modeling pipelines for simulation and manufacturing
