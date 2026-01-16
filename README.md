@@ -29,6 +29,8 @@ A selection of real-world robotics projects I have significantly contributed to.
 
 ### 🤖 P3Bot
 
+<img src="./images/p3bot_large.png" width="300"/>
+
 Omnidirectional platform with dual Kinova Gen3 7DoF manipulators.
 
 **My contributions:**
