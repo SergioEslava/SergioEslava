@@ -35,9 +35,9 @@ Omnidirectional platform with dual Kinova Gen3 7DoF manipulators.
 
 **My contributions:**
 - Industrial design and generation of 3D meshes ready for 3D printing
-- Complete robot implementation in **Webots** ([link](https://github.com/SergioEslava/webots/tree/p3bot))
+- Complete robot implementation in **Webots** ([link](https://github.com/cyberbotics/webots/tree/develop/projects/robots/robolab/p3bot/protos))
   - Accepted into the official Webots robot repository
-- Implementation of **Kinova Gen3 7DoF** manipulators in **Webots** ([link](https://github.com/SergioEslava/webots/tree/p3bot))
+- Implementation of **Kinova Gen3 7DoF** manipulators in **Webots** ([link](https://github.com/cyberbotics/webots/tree/develop/projects/robots/robolab/p3bot/protos))
   - Accepted into the official Webots robot repository
 - Design and implementation of the communication system between the **Webots** simulator and the distributed control system ([Robocomp](https://github.com/robocomp/robocomp)) ([link](https://github.com/SergioEslava-UEx/webots-p3bot))
 - Creation of the robot description in **URDF for ROS 2** ([link](https://github.com/SergioEslava/p3bot_description))
@@ -93,7 +93,6 @@ Autonomous driving system developed in an industrial context.
 
 **Core stack:**
 - C++, Python
-- ROS 2
 - Webots, Gazebo
 - Unreal Engine 5, Unity 6
 - Blender, Solidworks
