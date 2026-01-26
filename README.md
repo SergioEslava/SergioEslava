@@ -7,6 +7,8 @@ Robotics software engineer specialized in **robotics simulation, graphics engine
 
 I work at the intersection of **robotics, simulation, 3D graphics and distributed systems**, building simulators, communication layers and tooling that bridge real robots, physics engines and control software.
 
+**[Webots](https://cyberbotics.com/) contributor** — Mobile robot and Kinova Gen3 7-DoF arm integration.
+
 ---
 
 ## What I specialize in
@@ -31,14 +33,16 @@ A selection of real-world robotics projects I have significantly contributed to.
 
 <img src="./images/p3bot_large.png" width="300"/>
 
-Omnidirectional platform with dual Kinova Gen3 7DoF manipulators.
+Omnidirectional mobile manipulator platform, officially integrated into Webots (r2025b).
 
 **My contributions:**
 - Industrial design and generation of 3D meshes ready for 3D printing
 - Complete robot implementation in **Webots** ([link](https://github.com/cyberbotics/webots/tree/develop/projects/robots/robolab/p3bot/protos))
-  - Accepted into the official Webots robot repository
+  - **Accepted into the official Webots codebase (r2025b)**
 - Implementation of **Kinova Gen3 7DoF** manipulators in **Webots** ([link](https://github.com/cyberbotics/webots/tree/develop/projects/robots/robolab/p3bot/protos))
-  - Accepted into the official Webots robot repository
+  - Usable **standalone** or mounted on mobile platforms
+  - **Accepted into the official Webots codebase (r2025b)**
+- Definition of a **modular robot architecture** enabling interchangeable manipulators within Webots
 - Design and implementation of the communication system between the **Webots** simulator and the distributed control system ([Robocomp](https://github.com/robocomp/robocomp)) ([link](https://github.com/SergioEslava-UEx/webots-p3bot))
 - Creation of the robot description in **URDF for ROS 2** ([link](https://github.com/SergioEslava/p3bot_description))
 - Participation in the implementation of a **VR-based teleoperation system** for both manipulators using **Unreal Engine 5** ([link](https://github.com/alfiTH/VR_teleoperation))
