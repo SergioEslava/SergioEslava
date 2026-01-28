@@ -46,7 +46,7 @@ Omnidirectional mobile manipulator platform, officially integrated into Webots (
 - Design and implementation of the communication system between the **Webots** simulator and the distributed control system ([Robocomp](https://github.com/robocomp/robocomp)) ([link](https://github.com/SergioEslava-UEx/webots-p3bot))
 - Creation of the robot description in **URDF for ROS 2** ([link](https://github.com/SergioEslava/p3bot_description))
 - Participation in the implementation of a **VR-based teleoperation system** for both manipulators using **Unreal Engine 5** ([link](https://github.com/alfiTH/VR_teleoperation))
-- Co-authoring of a research paper describing the teleoperation system ([link](https://www.preprints.org/manuscript/202601.0368))
+- Co-authoring of a research paper describing the teleoperation system ([link](https://www.mdpi.com/2079-9292/15/3/572))
 
 ---
 
