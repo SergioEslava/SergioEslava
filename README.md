@@ -1,13 +1,15 @@
 # Sergio Eslava
 
-Robotics software engineer specialized in **robotics simulation, graphics engines and physics-based systems**, with a strong focus on the technical foundations that make complex robotic systems reliable and testable.
+## Robotics Simulation & Digital Twin Engineer
 
 📍 Spain  
-🌍 Open to remote work
+🌍 Remote-friendly
 
-I work at the intersection of **robotics, simulation, 3D graphics and distributed systems**, building simulators, communication layers and tooling that bridge real robots, physics engines and control software.
+I help robotics teams and companies build simulation and digital-twin infrastructure they can actually trust — so they can test faster, reduce risk, and make real decisions before touching hardware.
 
-**[Webots](https://cyberbotics.com/) contributor** — Mobile robot and Kinova Gen3 7-DoF arm integration.
+I work at the intersection of robotics, physics-based simulation, 3D engines and distributed systems, designing the technical foundations that make complex robotic systems testable, debuggable and scalable.
+
+**[Webots](https://cyberbotics.com/) contributor** · Gazebo · ROS 2 · Unity · Unreal Engine · Simulation ↔ Real Robot Parity
 
 ---
 
@@ -21,7 +23,7 @@ I work at the intersection of **robotics, simulation, 3D graphics and distribute
 - ROS 2 system description and integration
 - Unreal Engine–based simulation and VR interaction
 
-I’m particularly interested in building **infrastructure-level software**: the systems that robotics engineers rely on to test, validate and operate robots in realistic environments.
+My work focuses on infrastructure-level software: the systems that enable robotics engineers to move faster **without breaking things**.
 
 ---
 
@@ -44,9 +46,13 @@ Omnidirectional mobile manipulator platform, officially integrated into Webots (
   - **Accepted into the official Webots codebase (r2025b)**
 - Definition of a **modular robot architecture** enabling interchangeable manipulators within Webots
 - Design and implementation of the communication system between the **Webots** simulator and the distributed control system ([Robocomp](https://github.com/robocomp/robocomp)) ([link](https://github.com/SergioEslava-UEx/webots-p3bot))
-- Creation of the robot description in **URDF for ROS 2** ([link](https://github.com/SergioEslava/p3bot_description))
+- Creation of full **ROS 2 URDF description** ([link](https://github.com/SergioEslava/p3bot_description))
 - Participation in the implementation of a **VR-based teleoperation system** for both manipulators using **Unreal Engine 5** ([link](https://github.com/alfiTH/VR_teleoperation))
 - Co-authoring of a research paper describing the teleoperation system ([link](https://www.mdpi.com/2079-9292/15/3/572))
+
+**Impact:**
+
+A production-ready simulator used for development, validation and research, with consistent behavior across simulation and real robots.
 
 ---
 
@@ -97,11 +103,11 @@ Autonomous driving system developed in an industrial context.
 
 **Core stack:**
 - C++, Python
+- ROS 2, custom distributed systems
 - Webots, Gazebo
 - Unreal Engine 5, Unity 6
 - Blender, Solidworks
-- Distributed systems and communication middleware (ROS 2 & Robocomp)
-
+  
 **Additional areas:**
 - 3D modeling pipelines for simulation and manufacturing
 - VR-based interaction and teleoperation
