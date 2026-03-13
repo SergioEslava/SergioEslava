@@ -81,6 +81,7 @@ Educational mobile robot platform.
 Mobile robot platform.
 
 **My contributions:**
+- Complete robot definition using ROS2 Jazzy ([link](https://github.com/SergioEslava/shadow_description))
 - Industrial design and generation of 3D meshes for 3D printing
 - Implementation of the communication layer between the custom distributed control system and the **Webots** simulator ([link](https://github.com/robocomp/webots-bridge))
 - Development of the communication bridge between **Gazebo** and the distributed system ([link](https://github.com/robocomp/gazebo-bridge))
